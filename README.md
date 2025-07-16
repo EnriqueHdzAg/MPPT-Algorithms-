@@ -1,2 +1,2 @@
 # MPPT-Algorithms-
-Maximum Power Point Tracking Algorithms 
+All the Maximum Power Point Tracking Algorithms implemented 
